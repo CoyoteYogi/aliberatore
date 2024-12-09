@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoyoteYogi
-- 👀 I’m interested in learning to code and Information Security. I would like to be a Pen Tester eventually.
-- 🌱 I’m currently learning Python and Net+
+- 👀 I’m interested in learning to code and Information Security. I would like to be a Pen Tester eventually. Currently certified in Sec+.
+- 🌱 I’m currently learning Python and CySA+
 - 📫 How to reach me here.
 
 <!---
